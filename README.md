@@ -7,7 +7,9 @@ A tarefa de negócios é analisar e comparar o comportamento de uso das biciclet
 
 ## Fontes de dados usadas
 
-Fonte de [dados](https://divvy-tripdata.s3.amazonaws.com/index.html) Se trata dados históricos de trajetos da Cyclistic para analisar e identificar tendências. 
+Se trata dados históricos de trajetos da Cyclistic para analisar e identificar tendências. 
+
+- Fonte de [dados](https://divvy-tripdata.s3.amazonaws.com/index.html) 
 
 - *ps: Para os propósitos deste estudo de caso, os conjuntos de dados são adequados e permitem que você responda às perguntas de negócios. Os dados foram disponibilizados pela Motivate International Inc. sob esta [licença](https://divvybikes.com/data-license-agreement). Esses são dados públicos que podem ser usados para explorar como os diferentes tipos de clientes estão utilizando as bicicletas da Cyclistic. Entretanto, observe que problemas de privacidade de dados o proíbem de usar as informações de identificação pessoal dos passageiros. Ou seja, você não poderá conectar compras de passes a números de cartão de crédito para determinar se passageiros casuais moram na área de serviço da Cyclistic ou se compraram vários passes únicos.*
 
