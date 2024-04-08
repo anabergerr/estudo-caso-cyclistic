@@ -41,7 +41,7 @@ O gráfico de barras mostra o número de viagens realizadas por ciclistas casuai
 
 
 **Duração Média:**
-- O gráfico compara a duração média entre membros casuais e membros regulares ao longo dos dias da semana.
+- O gráfico compara a duração média entre membros casuais e membros anuais ao longo dos dias da semana.
 
 Observações:
 - Os membros casuais têm uma duração média consistentemente mais alta em comparação com os membros anuais em todos os dias.
