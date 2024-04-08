@@ -17,6 +17,9 @@ Se trata dados históricos de trajetos da Cyclistic para analisar e identificar 
 
 A documentação de limpeza dos dados se encontra neste [repositório](https://github.com/anabergerr/estudo-caso-cyclistic/blob/main/projeto-cyclistic.Rmd).
 
+## Resumo da  Análise de Dados
+
+- [Link](https://github.com/anabergerr/estudo-caso-cyclistic/blob/main/resumo.md)
 
 ## Apresentação da Análise de Dados
 
