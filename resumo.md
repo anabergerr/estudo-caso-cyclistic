@@ -50,6 +50,5 @@ Observações:
 **Implicações:**
 - Os membros casuais podem estar usando as bicicletas para atividades mais longas ou viagens específicas.
 - Os membros anuais podem estar usando as bicicletas para trajetos mais curtos e frequentes.
-*Essa diferença pode ser útil para adaptar estratégias de marketing e serviços oferecidos aos diferentes grupos de ciclistas.*
 
-
+  
