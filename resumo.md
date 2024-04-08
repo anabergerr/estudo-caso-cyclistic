@@ -28,8 +28,8 @@ O gráfico de barras mostra o número de viagens realizadas por ciclistas casuai
 - No eixo `y`, temos o “número de viagens”, escalado de 0 a 500.000.
 - As barras em teal representam os ciclistas membros, enquanto as barras em vermelho representam os ciclistas casuais.
 **Observações:**
-- Os membros anuais têm consistentemente mais viagens durante toda a semana, com um pequeno aumento às quarta e terça.
-- Os ciclistas casuais têm contagens de viagens relativamente consistentes, mas menores do que os membros anuais, com um leve aumento às sextas-feiras e sábados.
+- Os membros anuais têm consistentemente mais viagens durante toda a semana, com um pequeno aumento às quartas e terças.
+- Os ciclistas casuais têm contagens de viagens relativamente consistentes, mas menores do que os membros anuais, com um leve aumento nos finais de semana.
 
 **Conclusões:**
 - Os membros anuais são mais engajados e frequentes em suas viagens de bicicleta.
